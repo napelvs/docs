@@ -10,7 +10,7 @@ description: How to stake your AKT using Keplr wallet
 | -------------------------------- | --------------------------------------------------------------------------------------- |
 | **Chorus One Validator Address** | akashvaloper16pj5gljqnqs0ajxakccfjhu05yczp987ptmjx9                                     |
 | **Wallet**                       | Keplr                                                                                   |
-| **APR**                          | 40.5                                                                                    |
+| **APR**                          | 20                                                                                      |
 | **Block Explorer**               | [https://www.mintscan.io/akash](https://www.mintscan.io/akash)                          |
 | **Staking Rewards**              | [https://www.stakingrewards.com/earn/akash](https://www.stakingrewards.com/earn/akash/) |
 | **Unstaking Period**             | 21 Days                                                                                 |
